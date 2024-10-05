@@ -63,8 +63,9 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![vlsi 1](https://github.com/user-attachments/assets/25f35752-9afb-4768-b544-d31d1f9c4780)
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +77,9 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![screenshot 2024-10-05 at 11 31 17_d6b57a53](https://github.com/user-attachments/assets/adec4996-b4f6-4532-a43e-1b7339bb8a25)
+
+
 
 
  
@@ -95,14 +98,16 @@ Analog simulation by SPECTRE.
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+ ![screenshot 2024-10-05 at 11 31 16_248573fc](https://github.com/user-attachments/assets/d602e4aa-df31-4b7b-809d-0e2f7279505c)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+![screenshot 2024-10-05 at 11 31 15_3cf7d7d1](https://github.com/user-attachments/assets/1d5c02fe-3efe-4127-8e2e-2146643f50fa)
+
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
+![vlsi6](https://github.com/user-attachments/assets/d7bd3649-f5fa-423a-bc08-a172791cd010)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+
 
  
 
